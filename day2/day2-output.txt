@@ -1,0 +1,7500 @@
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Rock']
+	--> 3, 0
+	--> 0, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Rock']
+	--> 3, 0
+	--> 0, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Rock']
+	--> 3, 0
+	--> 0, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Rock']
+	--> 3, 0
+	--> 0, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Rock']
+	--> 3, 0
+	--> 0, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Rock']
+	--> 3, 0
+	--> 0, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Rock']
+	--> 3, 0
+	--> 0, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Rock']
+	--> 3, 0
+	--> 0, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Rock']
+	--> 3, 0
+	--> 0, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Rock']
+	--> 3, 0
+	--> 0, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Rock']
+	--> 3, 0
+	--> 0, 3
+['Rock', 'Rock']
+	--> 3, 0
+	--> 0, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Rock', 'Rock']
+	--> 3, 0
+	--> 0, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Rock']
+	--> 3, 0
+	--> 0, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Rock']
+	--> 3, 0
+	--> 0, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Rock']
+	--> 3, 0
+	--> 0, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Rock', 'Rock']
+	--> 3, 0
+	--> 0, 3
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Rock']
+	--> 3, 0
+	--> 0, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Rock']
+	--> 3, 0
+	--> 0, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Rock']
+	--> 3, 0
+	--> 0, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Rock']
+	--> 3, 0
+	--> 0, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Rock']
+	--> 3, 0
+	--> 0, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Rock']
+	--> 3, 0
+	--> 0, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Rock']
+	--> 3, 0
+	--> 0, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Rock']
+	--> 3, 0
+	--> 0, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Scissors', 'Scissors']
+	--> 3, 2
+	--> 6, 1
+['Rock', 'Paper']
+	--> 6, 1
+	--> 3, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Paper']
+	--> 0, 1
+	--> 3, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Rock']
+	--> 3, 0
+	--> 0, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Rock']
+	--> 3, 0
+	--> 0, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Scissors', 'Rock']
+	--> 6, 0
+	--> 0, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Rock', 'Rock']
+	--> 3, 0
+	--> 0, 3
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
+['Paper', 'Rock']
+	--> 0, 0
+	--> 0, 1
+['Paper', 'Scissors']
+	--> 6, 2
+	--> 6, 3
+['Paper', 'Paper']
+	--> 3, 1
+	--> 3, 2
+['Rock', 'Scissors']
+	--> 0, 2
+	--> 6, 2
